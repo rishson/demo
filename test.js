@@ -4,6 +4,7 @@ function func1(opts) {
   //todo and another
   //fixme and another
     //fixme and another
+      //fixme and another
   console.log(opts)
   console.log('hello')  
   console.log('world')
