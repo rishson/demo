@@ -5,6 +5,7 @@ function func1(opts) {
   //fixme and another
     //fixme and another
       //fixme and another
+  /*FIXME asdasd*/
   console.log(opts)
   console.log('hello')  
   console.log('world')
