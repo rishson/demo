@@ -1,5 +1,6 @@
 function func1(opts) {
   //todo a todo
+  //fixme a fixme
   console.log(opts)
   console.log('hello')  
   console.log('world')
