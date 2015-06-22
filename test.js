@@ -1,10 +1,5 @@
 function func1(opts) {
-  //todo a todo
-  //fixme a fixme
-  //todo and another
-  //fixme and another
-    //fixme and another
-      //fixme and another
+  /*TODO a todo */
   /*FIXME asdasd*/
   console.log(opts)
   console.log('hello')  
