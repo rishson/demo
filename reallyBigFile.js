@@ -2,6 +2,7 @@ var reallybigfile = {};
 
 var fred
 var bert
+var ernie
 
 
 
