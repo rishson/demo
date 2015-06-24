@@ -4,6 +4,9 @@ var fred
 var bert
 var ernie
 
+if(fred){
+  
+}
 
 
 
