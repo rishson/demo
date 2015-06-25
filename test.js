@@ -20,4 +20,5 @@ function func1(opts) {  //unused param on function declaration line
   }
   
   var bert, ernie
+  var fred, wilma
 }
