@@ -2,7 +2,7 @@ var x
 var y
 
 function init(){
- real
+ really
   bad code 
   
 }
