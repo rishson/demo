@@ -11,5 +11,6 @@ function init(){
  }));
  
  var a
+ var v
   
 }
