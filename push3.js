@@ -6,4 +6,3 @@ function init(){
 }asdasdasd
 
 asd
-asdasd
