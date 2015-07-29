@@ -1,9 +1,18 @@
 var x
 
 function init(){
-  just
-  real
   
-  adsadd
+ _.some(_.any(someArray, function(val){
+   //do something
+ }));
   
-}
+ _.some(_.any(someArray, function(val){
+   //do something
+ }));
+ 
+ var a
+ var vsdasd
+  
+}adsasd
+
+asdasasd

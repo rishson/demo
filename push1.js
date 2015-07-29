@@ -1,4 +1,9 @@
 var x
+var y
+
+_.some(new function(){
+  
+});
 
 function init(){
   
