@@ -1,5 +1,4 @@
-var x
-var y
+var push1
 
 _.some(new function(){
   
@@ -19,5 +18,3 @@ function init(){
  var vsdasd
   
 }adsasd
-
-asdasasd

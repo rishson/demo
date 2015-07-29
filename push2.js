@@ -1,4 +1,4 @@
-var x
+var push2
 
 function init(){
   
