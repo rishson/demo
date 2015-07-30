@@ -17,4 +17,4 @@ function init(){
  var a
  var vsdasd
   
-}adsasd
+}
