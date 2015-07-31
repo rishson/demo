@@ -4,6 +4,7 @@ _.some(new function(){
   
 });
 
+
 function init(){
   
  _.some(_.any(someArray, function(val){
