@@ -4,6 +4,8 @@ var y
 function init(){
  reallyerally
   bad code 
-  
-  asdasdas
+}
+
+function someFunc(){
+  log('asdasd')
 }
