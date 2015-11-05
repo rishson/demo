@@ -1,6 +1,6 @@
 var x
 
-function init(){
+function init(unusedParam){
   
   
 }
