@@ -5,7 +5,7 @@ _.some(new function(){
 });
 
 
-function init(){
+function init(asyncBrighton){
   
  _.some(_.any(someArray, function(val){
    //do something
