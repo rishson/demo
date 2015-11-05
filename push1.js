@@ -5,7 +5,7 @@ _.some(new function(){
 });
 
 
-function init(unusedParamParam){
+function init(){
   
  _.some(_.any(someArray, function(val){
    //do something
@@ -20,3 +20,5 @@ function init(unusedParamParam){
  var andy
   
 }
+
+init();
