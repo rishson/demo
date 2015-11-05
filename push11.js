@@ -6,6 +6,6 @@ function init(){
   bad code 
 }
 
-function someFunc(){
+function someFun(){
   log('asdasd')
 }
