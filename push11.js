@@ -9,3 +9,5 @@ function init(){
 function someFun(){
   log('asdasd')
 }
+
+//todo fixme
