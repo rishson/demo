@@ -9,10 +9,11 @@ function init(){
     //do something
   }));
 
+//todo
+
 var a
 var vsdasd
   
 }adsasd
 
 asdasasd
-//todo
