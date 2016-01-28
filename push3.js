@@ -5,6 +5,4 @@ function init(){
 
 //todo
   
-}asdasdasd
-
-asd
+}

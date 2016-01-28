@@ -2,13 +2,11 @@ var x
 var y
 
 function init(){
-  reallyerally
-  bad code 
+
+//todo fixme
+//another todo
 }
 
 function someFun(){
   log('asdasd')
 }
-
-//todo fixme
-//another todo
